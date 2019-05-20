@@ -1,0 +1,3 @@
+include ':app'
+include ':app', ':zxing-lib'
+include ':openCVLibrary346'

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_name"
+            android:icon="@drawable/nav_name"
+            android:title="@string/nav_name"/>
+        <item
+            android:id="@+id/nav_gender"
+            android:icon="@drawable/nav_gender"
+            android:title="@string/nav_gender"/>
+        <item
+            android:id="@+id/nav_phone"
+            android:icon="@drawable/nav_phone"
+            android:title="@string/nav_phone"/>
+        <item
+            android:id="@+id/nav_membership"
+            android:icon="@drawable/nav_membership"
+            android:title="@string/nav_membership"/>
+    </group>
+
+</menu>

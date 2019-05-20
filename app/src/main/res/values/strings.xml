@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Yummy</string>
+    <string name="title_home">Home</string>
+    <string name="title_shopping">付款</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="ic_share">Share</string>
+    <string name="ic_scan">Scan</string>
+    <string name="shopping">Shopping cart</string>
+    <string name="nav_name">Name</string>
+    <string name="nav_gender">Gender</string>
+    <string name="nav_phone">Phone Number</string>
+    <string name="nav_membership">Membership</string>
+    <string name="username">不学习我们就做不了朋友</string>
+    <string name="send_to">Share the App to ...</string>
+</resources>
