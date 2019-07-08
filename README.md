@@ -33,7 +33,7 @@
 
 ## 3. app介绍（以活动为单位进行介绍）
 
-共实现了6个活动。
+共实现了6个活动
 
 ### 3.1 LoginActivity
 
@@ -47,10 +47,10 @@
 
   在手机内部SD卡中查询用户，若无该用户或用户名与密码不匹配，显示“Account or password is invalid”：
 
-|      |                                                              |      |                                                              |
-| ---- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:/Users/XIAOYU~1/AppData/Local/Temp/msohtmlclip1/01/clip_image003.jpg) |      | ![img](file:///C:/Users/XIAOYU~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg) |
-|      |                                                              |      |                                                              |
+|                                                              |      |                                                              |      |
+| ------------------------------------------------------------ | ---- | ------------------------------------------------------------ | ---- |
+| ![](http://ww1.sinaimg.cn/large/0071tMo1ly1g4socrsl0lj30lq0zkjt9.jpg) |      | ![](http://ww1.sinaimg.cn/large/0071tMo1ly1g4sod16dvaj30m80zoq51.jpg) |      |
+|                                                              |      |                                                              |      |
 
  
 
@@ -58,7 +58,7 @@
 
 |      |                                                              |      |                                                              |
 | ---- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:/Users/XIAOYU~1/AppData/Local/Temp/msohtmlclip1/01/clip_image007.jpg) |      | ![img](file:///C:/Users/XIAOYU~1/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg) |
+|      | ![](http://ww1.sinaimg.cn/large/0071tMo1ly1g4sod6xqa6j30hq0scgmz.jpg) |      | ![](http://ww1.sinaimg.cn/large/0071tMo1ly1g4sodbnt6ej30ho0s7diz.jpg) |
 
 
 
@@ -66,7 +66,7 @@
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![1558363717095](C:\Users\Xiao Yuhan\AppData\Roaming\Typora\typora-user-images\1558363717095.png) | ![1558363754083](C:\Users\Xiao Yuhan\AppData\Roaming\Typora\typora-user-images\1558363754083.png) |
+| ![](http://ww1.sinaimg.cn/large/0071tMo1ly1g4sods73r9j30h90q90tx.jpg) | ![](http://ww1.sinaimg.cn/large/0071tMo1ly1g4sofch84ij30h60q5dip.jpg) |
 
 
 
@@ -86,17 +86,17 @@
 
   - 顶部标题栏的分享按钮：在手机的程序之间进行调用。同时使用Intent.createChooser，方便用户选择需要分享给的目标。
 
-![img](file:///C:/Users/XIAOYU~1/AppData/Local/Temp/msohtmlclip1/01/clip_image014.jpg)
+![](http://ww1.sinaimg.cn/large/0071tMo1ly1g4soe6kq5gj30ll04mdg8.jpg)
 
 - 顶部标题栏的“扫一扫”按钮：调用相机，根据zxing-lib库提供的接口实现**二维码扫描**。
 
-![img](file:///C:/Users/XIAOYU~1/AppData/Local/Temp/msohtmlclip1/01/clip_image016.jpg)
+![](http://ww1.sinaimg.cn/large/0071tMo1ly1g4sofmcn4ij31220btq4q.jpg)
 
 - 顶部标题栏的右菜单按钮：集成了4个按钮，点开才会显示，用于活动页面的跳转。
 
 - 顶部标题栏的左菜单按钮：使用DrawerLayout以及Material Design中的NavigationView技术实现**滑动菜单**功能。点击后，主页面会滑进一个菜单窗口。
 
-![img](file:///C:/Users/XIAOYU~1/AppData/Local/Temp/msohtmlclip1/01/clip_image018.jpg)
+![](http://ww1.sinaimg.cn/large/0071tMo1ly1g4sofvdb3dj30hs0au0to.jpg)
 
 - 使用CardView实现卡片式布局，辅以RecyclerView实现滚动窗口下的卡片式布局。
 
@@ -112,8 +112,8 @@
 
 |      |                                                              |                                                              |      |
 | ---- | :----------------------------------------------------------: | :----------------------------------------------------------: | ---- |
-|      | ![1558364056814](C:\Users\Xiao Yuhan\AppData\Roaming\Typora\typora-user-images\1558364056814.png) | ![1558364077921](C:\Users\Xiao Yuhan\AppData\Roaming\Typora\typora-user-images\1558364077921.png) |      |
-|      | ![1558364085884](C:\Users\Xiao Yuhan\AppData\Roaming\Typora\typora-user-images\1558364085884.png) | ![1558364029248](C:\Users\Xiao Yuhan\AppData\Roaming\Typora\typora-user-images\1558364029248.png) |      |
+|      | ![](http://ww1.sinaimg.cn/large/0071tMo1ly1g4soge6lrsj30gy0qm41f.jpg) | ![](http://ww1.sinaimg.cn/large/0071tMo1ly1g4sogm9kwrj30gu0qv41h.jpg) |      |
+|      | ![](http://ww1.sinaimg.cn/large/0071tMo1ly1g4soh8l82gj30hn0u0whn.jpg) | ![](http://ww1.sinaimg.cn/large/0071tMo1ly1g4sohgz9laj30h90tyad4.jpg) |      |
 
   
 
@@ -121,19 +121,19 @@
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![1558364157151](C:\Users\Xiao Yuhan\AppData\Roaming\Typora\typora-user-images\1558364157151.png) | ![1558364163342](C:\Users\Xiao Yuhan\AppData\Roaming\Typora\typora-user-images\1558364163342.png) |
+| ![](http://ww1.sinaimg.cn/large/0071tMo1ly1g4sohx80jtj30he0q3q5z.jpg) | ![](http://ww1.sinaimg.cn/large/0071tMo1ly1g4soi695snj30hb0qb77c.jpg) |
 
 
 
 刷新后：
 
-![1558364350677](C:\Users\Xiao Yuhan\AppData\Roaming\Typora\typora-user-images\1558364350677.png)
+![](http://ww1.sinaimg.cn/mw690/0071tMo1ly1g4soieelwpj30gy0r4ju7.jpg)
 
 
 
  分享Yummy：
 
-![1558364199152](C:\Users\Xiao Yuhan\AppData\Roaming\Typora\typora-user-images\1558364199152.png)
+![](http://ww1.sinaimg.cn/mw690/0071tMo1ly1g4sojtbc7rj30gp0qq40t.jpg)
 
 
 
@@ -143,28 +143,28 @@
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![1558364467242](C:\Users\Xiao Yuhan\AppData\Roaming\Typora\typora-user-images\1558364467242.png) | ![1558364474992](C:\Users\Xiao Yuhan\AppData\Roaming\Typora\typora-user-images\1558364474992.png) |
+| ![](http://ww1.sinaimg.cn/mw690/0071tMo1ly1g4sok15ontj30gy0r4wez.jpg) | ![](http://ww1.sinaimg.cn/mw690/0071tMo1ly1g4sok8quftj30gw0r1gm9.jpg) |
 
-![1558364484047](C:\Users\Xiao Yuhan\AppData\Roaming\Typora\typora-user-images\1558364484047.png)
+![](http://ww1.sinaimg.cn/mw690/0071tMo1ly1g4sokethz8j30ia0t9wg1.jpg)
 
 
 
  扫描二维码：
 
-![img](file:///C:/Users/XIAOYU~1/AppData/Local/Temp/msohtmlclip1/01/clip_image040.jpg)
+![](http://ww1.sinaimg.cn/mw690/0071tMo1ly1g4soklynk1j30hf0rttb3.jpg)
 
 
 
 
  顶部标题栏的右菜单：（点击可跳往各个页面）
 
-![1558364526292](C:\Users\Xiao Yuhan\AppData\Roaming\Typora\typora-user-images\1558364526292.png)
+![](http://ww1.sinaimg.cn/mw690/0071tMo1ly1g4sokqlxt1j30gw0r1q5p.jpg)
 
 
 
  滑动菜单：（个人信息栏）
 
-![img](file:///C:/Users/XIAOYU~1/AppData/Local/Temp/msohtmlclip1/01/clip_image044.jpg)
+![](http://ww1.sinaimg.cn/mw690/0071tMo1ly1g4sokw24txj30j50unq3p.jpg)
 
 
 
@@ -187,15 +187,13 @@
 
 背景图与顶部标题栏相融合，绿白环浮动按钮，对菜肴的陈述（置于卡片中，这里的陈述是计算机自动生成的）。
 
-![img](file:///C:/Users/XIAOYU~1/AppData/Local/Temp/msohtmlclip1/01/clip_image046.jpg)
-
-
+![](http://ww1.sinaimg.cn/mw690/0071tMo1ly1g4sol0kd3dj30xc1hcx1q.jpg)
 
 向上滑动（动态过渡）：
 
 |                                                              |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![1558364672126](C:\Users\Xiao Yuhan\AppData\Roaming\Typora\typora-user-images\1558364672126.png) | ![1558364682802](C:\Users\Xiao Yuhan\AppData\Roaming\Typora\typora-user-images\1558364682802.png) | ![1558364685896](C:\Users\Xiao Yuhan\AppData\Roaming\Typora\typora-user-images\1558364685896.png) |
+| ![](http://ww1.sinaimg.cn/mw690/0071tMo1ly1g4solah3lbj30cz0lwwiz.jpg) | ![](http://ww1.sinaimg.cn/mw690/0071tMo1ly1g4solkjtgvj30xc1hc4j8.jpg) | ![](http://ww1.sinaimg.cn/mw690/0071tMo1ly1g4solwc25tj30xc1hcwz8.jpg) |
 
  
 
@@ -216,13 +214,13 @@
 - 功能演示：
 初始页面：（三个按钮；一个用于显示照片的卡片；两行文字，表示图片中各类盘子的数目）
 
-![img](file:///C:/Users/XIAOYU~1/AppData/Local/Temp/msohtmlclip1/01/clip_image053.jpg)
+![](http://ww1.sinaimg.cn/mw690/0071tMo1ly1g4som8fejfj30i20rvq3r.jpg)
 
 
 
 点击TAKE PHOTO，调用照相机：
 
-![img](file:///C:/Users/XIAOYU~1/AppData/Local/Temp/msohtmlclip1/01/clip_image055.jpg)
+![](http://ww1.sinaimg.cn/mw690/0071tMo1ly1g4sooc4d3fj30go0ocjtn.jpg)
 
 
 点击CHOOSE FROM ALBUM，从相册中选取图片，并计算图片中的菜肴应该付多少费用。  
@@ -231,16 +229,14 @@
 
 |      |                                                              |      |                                                              |
 | ---- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:/Users/XIAOYU~1/AppData/Local/Temp/msohtmlclip1/01/clip_image058.jpg) |      | ![img](file:///C:/Users/XIAOYU~1/AppData/Local/Temp/msohtmlclip1/01/clip_image059.jpg) |
+|      | ![](http://ww1.sinaimg.cn/mw690/0071tMo1ly1g4somespu4j30ik0vtdhw.jpg) |      | ![](http://ww1.sinaimg.cn/mw690/0071tMo1ly1g4soohit7fj30ik0vq0v2.jpg) |
 |      |                                                              |      |                                                              |
 
 
 
   点击付款，进入支付宝页面：
 
-![img](file:///C:/Users/XIAOYU~1/AppData/Local/Temp/msohtmlclip1/01/clip_image061.jpg)
-
-
+![](http://ww1.sinaimg.cn/mw690/0071tMo1ly1g4sooojsmsj30do0ltgn5.jpg)
 
 
 ### 3.6 CommentActivity
@@ -258,25 +254,25 @@
 
 客户进入时的初始界面（显示已有的评论人+对应的评论内容）：
 
-![img](file:///C:/Users/XIAOYU~1/AppData/Local/Temp/msohtmlclip1/01/clip_image063.jpg)
+![](http://ww1.sinaimg.cn/mw690/0071tMo1ly1g4sopvx2laj30hi0s0t9h.jpg)
 
   
 
  客户可点击下方输入框发表评论（这里假设客户的账户名为admin，输入“不错不错”）：
 
-![1558364939872](C:\Users\Xiao Yuhan\AppData\Roaming\Typora\typora-user-images\1558364939872.png)
+![](http://ww1.sinaimg.cn/mw690/0071tMo1ly1g4soqxj88ij30hr0sc3zc.jpg)
 
 
 
 点击SEND：
 
-![img](file:///C:/Users/XIAOYU~1/AppData/Local/Temp/msohtmlclip1/01/clip_image067.jpg)
+![](http://ww1.sinaimg.cn/mw690/0071tMo1ly1g4soqcbjtaj30fl0oxgm9.jpg)
 
- 
+
 
 离开本页面，再次进入，可以看到，该评论已被存储：
 
-![img](file:///C:/Users/XIAOYU~1/AppData/Local/Temp/msohtmlclip1/01/clip_image069.jpg)
+![](http://ww1.sinaimg.cn/mw690/0071tMo1ly1g4sor4qfclj30ip0tvq3u.jpg)
 
 ## 4. 改进空间
 
